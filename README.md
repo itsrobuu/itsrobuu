@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Information Security
-- 📫 How to reach me kipropbriann@gmail.com @SirRobustus on Twitter
+- 📫 How to reach me kipropbriann@gmail.com
 - 
 
 <!---
