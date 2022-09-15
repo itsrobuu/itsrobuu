@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @itsrobuu
+- 👋 Hi, I’m @SirRobustus
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Information Security
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Information Security and Forensics
+
 - 📫 How to reach me kipropbriann@gmail.com
 - 
 
